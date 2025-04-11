@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
 import { Typewriter } from "react-simple-typewriter";
 
@@ -44,14 +45,15 @@ function Home() {
         Apasionado por crear experiencias digitales increíbles y transformar datos en decisiones.
       </motion.p>
 
+      <Link to="/proyectos">
       <motion.a
-        href="/proyectos"
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.95 }}
         className="bg-pink-500 hover:bg-pink-600 text-white px-6 py-3 rounded-xl font-semibold transition shadow-md"
       >
         Ver Proyectos
       </motion.a>
+      </Link>
     </section>
   );
 }

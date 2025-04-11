@@ -20,6 +20,3 @@ function Navbar() {
 }
 
 export default Navbar;
-
-
-// hover:text-cyan-400 transition
