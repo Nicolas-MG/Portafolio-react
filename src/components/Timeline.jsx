@@ -6,8 +6,8 @@ const experiencia = [
     {
         tipo: "Trabajo",
         titulo: "Desarrollador Frontend - Sura",
-        fecha: "Ene 2024 - Mar 2024",
-        descripcion: "Desarrollé dashboards interactivos en Power BI, integrando datos de ventas, incidentes y asesorías.",
+        fecha: "Ene 2024 - Dic 2024",
+        descripcion: "Implementé un formulario condicional con lógica interactiva, donde las opciones seleccionadas por los usuarios determinaban en tiempo real si calificaban como aliados digitales de alto potencial.",
       },
       {
         tipo: "Estudio",
