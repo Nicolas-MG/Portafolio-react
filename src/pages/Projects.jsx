@@ -10,7 +10,7 @@ function Projects() {
     {
       nombre: "Mi Portafolio",
       descripcion: "Sitio personal hecho con React y TailwindCSS.",
-      imagen:  img1, // reemplaza por la ruta correcta
+      imagen:  img1, 
       tecnologias: ["React", "Tailwind", "Framer Motion"],
       demo: "Poner la URL cunado lo suba",
       codigo: "Poner mi github cuando lo suba"
@@ -20,8 +20,8 @@ function Projects() {
       descripcion: "Dashboard interactivo usando Power BI y Python.",
       imagen: img2,
       tecnologias: ["Power BI", "Python", "SQL"],
-      demo: "#",
-      codigo: "#"
+      demo: "",
+      codigo: ""
     },
     {
       nombre: "Tienda Online",
