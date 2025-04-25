@@ -19,7 +19,8 @@ Este portafolio está en constante evolución. 🚧
 
 ## 🖼️ Vista previa
 
-Ya podés ver mi portafolio en línea 👉 (https://portafolio-react-sage.vercel.app/proyectos)
+Ya podés ver mi portafolio en línea 👉 [Ver en VERCEL](portafolio-react-sage.vercel.app
+)
 
 Si querés explorarlo o modificarlo localmente:
 
