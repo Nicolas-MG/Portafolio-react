@@ -19,7 +19,7 @@ function Projects() {
       nombre: "Dashboard de Datos",
       descripcion: "Dashboard interactivo usando Power BI y Python.",
       imagen: img2,
-      tecnologias: ["Power BI", "Python", "SQL"],
+      tecnologias: ["Streamlit", "Python", "SQL"],
       demo: "https://github.com/Nicolas-MG/Analisis_de_Datos",
       codigo: "https://github.com/Nicolas-MG/Analisis_de_Datos"
     },
