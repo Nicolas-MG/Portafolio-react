@@ -12,16 +12,16 @@ function Projects() {
       descripcion: "Sitio personal hecho con React y TailwindCSS.",
       imagen:  img1, 
       tecnologias: ["React", "Tailwind", "Framer Motion"],
-      demo: "Poner la URL cunado lo suba",
-      codigo: "Poner mi github cuando lo suba"
+      demo: "https://portafolio-react-sage.vercel.app/proyectos",
+      codigo: "https://github.com/Nicolas-MG/Portafolio-react"
     },
     {
       nombre: "Dashboard de Datos",
       descripcion: "Dashboard interactivo usando Power BI y Python.",
       imagen: img2,
       tecnologias: ["Power BI", "Python", "SQL"],
-      demo: "",
-      codigo: ""
+      demo: "https://github.com/Nicolas-MG/Analisis_de_Datos",
+      codigo: "https://github.com/Nicolas-MG/Analisis_de_Datos"
     },
     {
       nombre: "Tienda Online",

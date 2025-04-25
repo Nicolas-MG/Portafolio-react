@@ -7,7 +7,9 @@ const experiencia = [
         tipo: "Trabajo",
         titulo: "Desarrollador Frontend - Sura",
         fecha: "Ene 2024 - Dic 2024",
-        descripcion: "Implementé un formulario condicional con lógica interactiva, donde las opciones seleccionadas por los usuarios determinaban en tiempo real si calificaban como aliados digitales de alto potencial.",
+        descripcion: `Implementé un formulario condicional con lógica interactiva
+                      , donde las opciones seleccionadas por los usuarios determinaban en 
+                        tiempo real si calificaban como aliados digitales de alto potencial.`,
       },
       {
         tipo: "Estudio",
