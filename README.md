@@ -1,12 +1,30 @@
-# React + Vite
+# 🚀 Portafolio de Nicolas MG
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido a mi portafolio personal! Aquí encontrarás una muestra de los proyectos que he desarrollado como **desarrollador frontend** enfocado en crear experiencias modernas, limpias y funcionales usando tecnologías como **React**, **TailwindCSS**, y más.
 
-Currently, two official plugins are available:
+## 🧠 Sobre mí
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Soy un apasionado por el desarrollo web, actualmente en formación constante para convertirme en **el mejor frontend developer del mundo**. Me encanta construir interfaces con sentido estético, buen rendimiento y estructura profesional.
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologías que uso
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React JS
+- 🎨 Tailwind CSS
+- 🧩 JavaScript (ES6+)
+- 🧱 HTML5 & CSS3
+- 🧠 Git & GitHub
+- 🔍 Próximamente: TypeScript, Next.js y más...
+
+Este portafolio está en constante evolución. 🚧
+
+## 🖼️ Vista previa
+
+Ya podés ver mi portafolio en línea 👉  (https://portafolio-react-sage.vercel.app/)
+
+Si querés explorarlo o modificarlo localmente:
+
+```bash
+git clone https://github.com/Nicolas-MG/Portafolio-react.git
+cd Portafolio-react
+npm install
+npm run dev
