@@ -34,8 +34,10 @@ return (
             ))}
         </div>
         <div className="flex gap-4">
-            <a href={proyecto.demo} target="_blank" rel="noreferrer" className="bg-pink-500 hover:bg-pink-600 text-white px-4 py-2 rounded-lg">Demo</a>
-            <a href={proyecto.codigo} target="_blank" rel="noreferrer" className="border border-pink-500 text-pink-500 hover:bg-pink-500 hover:text-white px-4 py-2 rounded-lg">Código</a>
+            <a href={proyecto.demo} target="_blank" rel="noreferrer" className="bg-pink-500 
+            hover:bg-pink-600 text-white px-4 py-2 rounded-lg">Demo</a>
+            <a href={proyecto.codigo} target="_blank" rel="noreferrer" className="border 
+            border-pink-500 text-pink-500 hover:bg-pink-500 hover:text-white px-4 py-2 rounded-lg">Código</a>
         </div>
     </motion.div>
 );

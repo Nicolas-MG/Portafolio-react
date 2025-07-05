@@ -25,11 +25,11 @@ function Projects() {
     },
     {
       nombre: "Tienda Online",
-      descripcion: "Tienda virtual hecha con Angular y TailwindCSS.",
+      descripcion: "Tienda virtual hecha con Angular y SCSS.",
       imagen: img3,
-      tecnologias: ["Angular", "Tailwind", "Node.js"],
-      demo: "https://diem-19.vercel.app/",
-      codigo: "https://github.com/Nicolas-MG/Diem"
+      tecnologias: ["Angular", "SCSS", "Node.js"],
+      demo: "https://diem-2-0.vercel.app/",
+      codigo: "https://github.com/Nicolas-MG/Diem-2.0"
     }
   ];
 
