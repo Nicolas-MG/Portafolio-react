@@ -1,10 +1,13 @@
 import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
 import { Typewriter } from "react-simple-typewriter";
+import logo from "../assets/Logo1.png"
 
 function Home() {
   return (
+    
     <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 text-white">
+    <img src={logo} alt="logo" className="w-auto max-w-[180px] sm:max-w-[240px] md:max-w-[320px] h-auto object-contain mx-auto" />
       <motion.h1
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
@@ -55,6 +58,7 @@ function Home() {
       </motion.a>
       </Link>
     </section>
+    
   );
 }
 export default Home;
